@@ -200,4 +200,4 @@ python generate_data.py
 Michael Johnson  
 8+ years PL/SQL and Oracle Database experience  
 Transitioning to BI Engineering with Google BigQuery and Power BI  
-[LinkedIn Profile] | [Email]
+
